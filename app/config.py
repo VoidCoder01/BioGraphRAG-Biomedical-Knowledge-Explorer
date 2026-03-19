@@ -1,0 +1,7 @@
+FAISS_INDEX_PATH = "data/pubmed_faiss.index"
+CHUNK_META_PATH = "data/chunk_meta.pkl"
+NEO4J_URI = "bolt://localhost:7687"
+NEO4J_USER = "neo4j"
+NEO4J_PASSWORD = "password"
+EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+GENERATION_MODEL = "microsoft/phi-2"

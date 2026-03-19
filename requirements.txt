@@ -1,0 +1,14 @@
+kagglehub[pandas-datasets]
+pandas
+faiss-cpu
+sentence-transformers
+langchain
+neo4j
+chromadb
+scispacy
+spacy
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_ner_bionlp13cg_md-0.5.0.tar.gz
+pdfplumber
+tqdm
+transformers
+torch
